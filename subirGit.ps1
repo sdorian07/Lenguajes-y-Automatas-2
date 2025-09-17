@@ -3,7 +3,8 @@
 # ==============================
 $githubUser = "sdorian07"
 $repoName = "Lenguajes y Automatas 2"
-$githubUrl = "https://github.com/sdorian07/Lenguajes%20y%20Automatas%202.git"
+https://github.com/sdorian07/Lenguajes-y-Automatas-2.git
+
 
 # Ruta actual (donde están src, bin, releases)
 $projectPath = Get-Location
